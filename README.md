@@ -18,7 +18,9 @@
 
 ## 📖 About
 
-Happy Family Mall is a full-featured shopping application covering multiple product categories. The project includes a customer-facing Flutter mobile app and a dedicated admin dashboard for managing products, orders, and users.
+Happy Family Mall is a complete shopping ecosystem covering multiple product categories. 
+The project includes three Flutter applications: a customer shopping app, a delivery 
+driver app, and an admin dashboard for full operational management.
 
 > ⚠️ This repository contains project documentation only. Source code is private.
 
