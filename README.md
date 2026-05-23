@@ -32,6 +32,11 @@ Happy Family Mall is a full-featured shopping application covering multiple prod
 - Shopping cart and checkout
 - Order tracking
 
+### 🚴 Delivery App
+- Order pickup and delivery management
+- Real-time order status updates
+- Delivery history tracking
+
 ### 🖥️ Admin Dashboard
 - Product & inventory management
 - Order management
